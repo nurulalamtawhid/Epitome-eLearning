@@ -2,9 +2,11 @@
 body{
     font-family: 'Oswald', sans-serif;
 }
-
+/*====================================
+        Banner-css 
+====================================**/
 .carousel-item{
-    height: 40rem;
+    height: 42rem;
     background: rgb(43, 41, 41);
     color: rgb(255, 255, 255);
     position: relative;
