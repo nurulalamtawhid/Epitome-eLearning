@@ -41,4 +41,16 @@ body{
     width: 100%;   
 }
 
+.footer-text>h1{
+    color: white;
+
+}
+.footer-text>p{
+    color: white;
+    font-size: 15px;
+}
+.social-media>a{
+    color: white;
+}
+
 
