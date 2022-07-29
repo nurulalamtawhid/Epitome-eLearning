@@ -37,10 +37,12 @@ body{
     background-size: cover;
     opacity: 0.5;
 }
+/**---------*/
 .flex-column>img{
     width: 100%;   
 }
-
+/***==========footer
+======================**/
 .footer-text>h1{
     color: white;
 
